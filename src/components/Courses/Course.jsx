@@ -8,6 +8,10 @@
 
   File: Course.jsx
   Created and maintained by: [Gaurav Gaurav]
+  
+    Description: This file contains the Course component, which displays the course details in a card format.
+    This component is used to display the courses on the courses page.
+    The course details are passed as props from the parent component.
 */
 
 

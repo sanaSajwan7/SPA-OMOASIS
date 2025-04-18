@@ -8,6 +8,9 @@
 
   File: Comparison.jsx
   Created and maintained by: [Gaurav Gaurav]
+  
+    Description: This file contains the Comparison component, which displays a comparison table of different SPA frameworks.
+    This component is used to display the comparison of different SPA frameworks on the comparison page.
 */
 
 

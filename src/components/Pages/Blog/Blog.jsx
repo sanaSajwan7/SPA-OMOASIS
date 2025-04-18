@@ -8,6 +8,8 @@
 
   File: Blog.jsx
   Created and maintained by: [Ashwin Mathew]
+    Description: This file contains the Blog component, which displays the list of blog articles.
+    This component is used to display the blog articles on the blog page.
 */
 
 

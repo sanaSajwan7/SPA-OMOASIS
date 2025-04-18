@@ -8,6 +8,11 @@
 
   File: Layout.jsx
   Created and maintained by: [Gaurav Gaurav]
+    
+    
+    Description: This file contains the Layout component, which is the main layout of the application.
+    This component is used to display the header, footer and main content of the application.
+    The main content is passed as props from the parent component.
 */
 
 

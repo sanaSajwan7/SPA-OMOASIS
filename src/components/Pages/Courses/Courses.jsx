@@ -8,6 +8,11 @@
 
   File: Courses.jsx
   Created and maintained by: [Abhishek Ajay Chachad]
+    
+    
+    Description: This file contains the Courses component, which displays the list of courses available on the website.
+    This component is used to display the courses on the courses page.
+    The course details are passed as props from the parent component.
 */
 
 import Layout from "../Layout/Layout.jsx";

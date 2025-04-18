@@ -8,6 +8,8 @@
 
   File: BlogArticlePage.jsx
   Created and maintained by: [Ashwin Mathew] and [Santoshi Santoshi]
+    Description: This file contains the BlogArticlePage component, which displays the details of a selected blog article.
+  This component is used to display the content of a blog article when the user clicks on it from the blog list.
 */
 
 
@@ -18,6 +20,7 @@ import {Link, useLocation} from "react-router-dom";
 
 export default function BlogArticlePage() {
     const location = useLocation();
+    // Get the blog article details from the location state
     const blogProps = location.state || {};
 
     return (

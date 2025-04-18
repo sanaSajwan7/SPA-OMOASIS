@@ -8,6 +8,9 @@
 
   File: PageTitle.jsx
   Created and maintained by: [Santoshi Santoshi]
+    Description: This file contains the PageTitle component, which sets the document title for the application.
+    This component is used to set the title of the page dynamically based on the current page.
+    The title and separator are passed as props from the parent component.
 */
 
 

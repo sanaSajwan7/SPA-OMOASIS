@@ -8,6 +8,10 @@
 
   File: Contact.jsx
   Created and maintained by: [Santoshi Santoshi]
+    
+    
+        Description: This file contains the Contact component, which displays a contact form for users to get in touch with the team.
+        This component is used to display the contact form on the contact page.
 */
 
 

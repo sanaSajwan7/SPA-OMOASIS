@@ -8,6 +8,8 @@
 
   File: PageNotFound.jsx
   Created and maintained by: [Abhishek Ajay Chachad]
+    Description: This file contains the PageNotFound component, which displays a 404 error page when the user tries to access a non-existent page.
+    This component is used to display the 404 error page when the user tries to access a non-existent page.
 */
 
 

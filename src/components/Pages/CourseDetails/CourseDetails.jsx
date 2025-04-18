@@ -8,6 +8,7 @@
 
   File: CourseDetails.jsx
   Created and maintained by: [Gaurav Gaurav] and [Santoshi Santoshi]
+    Description: This file contains the CourseDetails component, which displays the details of a selected course.
 */
 
 
@@ -18,6 +19,8 @@ import {Link, useLocation} from "react-router-dom";
 
 export default function CourseDetails() {
     const location = useLocation();
+    // Get the course details from the location state
+    
     const courseProps = location.state || {};
 
     const handleTopScroll = (e) => {

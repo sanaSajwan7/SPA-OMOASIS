@@ -8,6 +8,10 @@
 
   File: Article.jsx
   Created and maintained by: [Santoshi Santoshi]
+    
+    Description: This file contains the Article component, which displays the article details in a card format.
+    This component is used to display the articles on the blog page.
+    The article details are passed as props from the parent component.
 */
 
 import { Link } from "react-router-dom";

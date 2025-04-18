@@ -8,6 +8,9 @@
 
   File: App.jsx
   Created and maintained by: [Abhishek Ajay Chachad]
+    Description: This file contains the main App component, which is the entry point of the application.
+    This component sets up the routing for the application using React Router.
+    It defines the routes for the different pages of the application.
 */
 
 
